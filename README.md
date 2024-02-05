@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">Just a man chilling and looking for new experience</h3>
+<h3 align="center">Just a man chilling and looking for new experiences</h3>
 
 - 🌱 I’m currently learning **Machine learning and Stats**
 
